@@ -1,4 +1,4 @@
-# ADNAN NAOUS AI
+# ADNAN NAOUS AI (not working) [ My first ever project ]
 
 موقع دردشة ذكي مبني بـ Next.js و OpenAI.
 © 2025 ADNAN NAOUS AI
